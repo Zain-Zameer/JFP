@@ -1,0 +1,9 @@
+Headings:
+ - h1 - h6 headings are in html, mostly needed are h1-h3
+
+Paragraphs:
+ - <p> , lorem 
+
+anchor tags:
+ - <a></a>, target=_blank 
+

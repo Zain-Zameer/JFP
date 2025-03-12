@@ -1,0 +1,17 @@
+GET: asking for information
+POST: submitting information 
+
+on radio buttons we provide same names so user can select one radio button.
+
+we provide names to input tags because server ke pass joh key value pairs pr jayega data woh name ki sahita se jayega as a key.
+
+required attribute makes a field mandatory to be filled.
+autofocus attribute automatically focuses on the particular input field when the page loads.
+
+
+harry useful comment while he was telling about Get and post request in creating form:
+There has been a small mistake at 2:52 - The action attribute in an HTML form specifies the URL to which the form data should be sent, while the method attribute defines how that data should be sent, typically either "GET" for retrieving data or "POST" for sending data like this:
+ <form action="/submit.php" method="post">
+
+</form>
+

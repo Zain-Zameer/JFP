@@ -1,0 +1,22 @@
+Image tags:
+we dont write to mention "px" while giving width in img tag.
+we dont give height + width to img because it will change its aspect ratio.
+If you provide height, the width will automatically gets adjusted.
+If you provide width, the height will automatically gets adjusted.
+
+table tag:
+tr = table row
+    th = table heading
+    td = table data
+
+rowspan attribute = kitni rows ko span kregi apki td
+colspand attribute = kitne columns ko span kregi apki td 
+caption tag = is used to add a caption to a table 
+
+Table headers and footers = thead,tbody,tfoot tags 
+
+br = line break
+
+lists:
+3 types of list =  ordered, defination, unordered
+

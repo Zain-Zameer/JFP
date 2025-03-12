@@ -1,0 +1,22 @@
+search engines use Core web vitals are used to rank 2 web pages.
+lets say apne bhi dog food ke bare web page banaya or apke dost ne bhi, toh ese mein jb content same hoga toh apke core web vitals dekhe jayein gein lets say apke dost ka web page ziada jldi load horaha hai toh ese mein uska page apke page ke muqable mein upr rank kia jayega. Because of core web vitals.
+
+CLS: (Cummulative Layout Shift)
+CLS should be less and less, why? here is the example you can watch: https://web.dev/articles/cls
+CLS means ke page load hote hote kitna shift horaha hai.
+lets say koi content likha tha, achanak se image load huwi or woh content neeche hogya, a bad user experience right? so agr ap images mein width or height lagate hein toh layout shift nh hoga. makesure to add it inside html
+
+LCP: (Largest Contentful Paint) 
+joh sbse bara dikhne wala element hai woh kitni der mein load horaha hai inside a web page. a good LCP score is 2.5 seconds or less.
+
+FID: (First Input Delay)
+Agr user ne web page pr koi input dia (koi data enter kia ya koi subimit button pr click kia kisi bhi trha ka input) toh woh process hone mein kitna time lagra hai. A good FID is 100 milisconds or less.
+
+these core web vitals gets updated time to time but these three are most important.
+
+Lighthouse is an open-source, automated tool to help you improve the quality of web pages
+
+SEO elements:
+1. Title: Title should be good which reflects the content of your web page.
+2. meta:desc -> agr html mein dala hai toh woh pick krlia jayega nh toh search engine khud generate krlega apke web page se.
+3. meta keywords are depricated because logon ne kafi abuse kia hai ise.

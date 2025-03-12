@@ -1,0 +1,8 @@
+Inline vs block elements
+
+anchor tag is inline 
+span is inline 
+
+p is block 
+div is block 
+

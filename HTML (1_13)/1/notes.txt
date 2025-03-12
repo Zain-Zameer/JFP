@@ -1,0 +1,6 @@
+1:
+
+- 2 tags that are in html: (pair tag, self-closing tag )
+  [] pair tag are <html> </html>
+  [] self-closing tag are: <meta >, <link > 
+- tags ke andar we give attributes usually like <html lang="en", so lang is an attribute 

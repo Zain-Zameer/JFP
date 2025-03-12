@@ -1,0 +1,5 @@
+miscillineous html tags
+
+&lt;p> &lt;/p> to represnt <p></p>
+
+shift  + tab to remove pre defined indent in pre

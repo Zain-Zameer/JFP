@@ -1,0 +1,48 @@
+the video tag:
+
+<video src="" controls></video>, you can also provide width in it
+attributes for video tag:
+src: Specifies the path to the video file.
+controls: Adds video controls, like play, pause, and volume.
+autoplay: Automatically starts playing the video when the page loads.
+loop: Repeats the video once it ends.
+muted: Mutes the video by default.
+poster: Specifies an image to be displayed before the video starts playing.
+width and height: Specifies the dimensions of the video.
+I can also enter the url of any video from the internet in src 
+
+the audio tag:
+
+<audio src="audio.mp3" controls></audio>
+src: Specifies the path to the audio file.
+controls: Adds audio controls, like play, pause, and volume.
+autoplay: Automatically starts playing the audio when the page loads.
+loop: Repeats the audio once it ends.
+muted: Mutes the audio by default.
+
+preload: Specifies if and how the audio should be loaded when the page loads ('auto', 'metadata', 'none').
+
+what is preload attribute? 
+The preload attribute is used in the <audio> and <video> HTML elements to tell the browser how it should load the media file before the user plays it.
+
+Think of it like this:
+Imagine you visit a website with an audio file (like a song). The browser has three choices:
+
+Not load it at all until you press play.
+Load only basic details (like the length of the song).
+Start downloading the whole file in advance (so there's no delay when you press play).
+Explanation of preload values:
+none → Don’t load anything until the user presses play.
+metadata → Load only the audio’s information (like duration, size, etc.), but not the actual sound.
+auto → Start downloading the audio in the background, so it plays instantly when the user presses play.
+
+SVG in HTML:
+https://www.codewithharry.com/tutorial/working-with-svg/
+
+iframes in html:
+to embed any web page to your web page
+<iframe src="URL" width="width" height="height"></iframe>
+Embedding a YouTube Video
+<iframe src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+Embedding Google Maps
+<iframe src="https://maps.google.com/maps?q=LOCATION&output=embed" frameborder="0"></iframe>

@@ -1,0 +1,6 @@
+semantic tags web crawlers ko batate hein ke apke website ke content kia hain or kis jagah ka kia purpose hai. 
+
+https://www.codewithharry.com/tutorial/html-semantic-tags/
+
+semantic tags html5 se introduce kiye gaye hein.
+
