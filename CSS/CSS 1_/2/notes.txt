@@ -1,0 +1,8 @@
+Quick question: Do you know any other way to add specific design to specific h1 tag? so other h1's dont get mixed up or grasp that design. Can you do it without using id or classes. 
+
+Answer:
+<h1 style="color: yellow;background-color: red;">Good World</h1>
+<h1>Bad World</h1>
+
+// Here only Good world will change not the bad world because i have provided inline css to only good world h1 not bad world h1.
+

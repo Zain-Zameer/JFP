@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS 06 - Specifity & Cascade</title>
+    <style>
+        h1{
+            color: aqua;
+        }
+        .yellow{
+            color:yellow !important;
+        }
+        .cred{
+            color: red;
+        }
+        .cpurple{
+            color: purple;
+        }
+
+        [okasha=x]{
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1 class="yellow cred cpurple" >CSS Specificity</h1>
+    </div>
+    <div>
+        <h2 okasha="x">Hello World</h2>
+    </div>
+</body>
+</html>
