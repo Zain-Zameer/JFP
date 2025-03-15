@@ -1,5 +1,0 @@
-CSS Selectors:
-
-background-color: red;
-background-color is a property, red is a value.
-
